@@ -1,5 +1,4 @@
 import sys
-import msvcrt
 import os.path
 import json
 

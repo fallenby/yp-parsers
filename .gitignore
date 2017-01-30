@@ -57,5 +57,6 @@ docs/_build/
 # PyBuilder
 target/
 
-# json files
+# dump-related files
 *.json
+*.txt
